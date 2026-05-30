@@ -1,6 +1,4 @@
 import "./style.css";
-import person from './assets/icons8-person-100.png';
-import password from './assets/icons8-password-100.png';
 
 document.querySelector("#app").innerHTML = `
   <div class="wrapper">
