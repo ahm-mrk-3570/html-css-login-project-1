@@ -30,4 +30,4 @@
         </div>
     </form>
   </div>
-`,setupCounter(document.querySelector(`#counter`));
+`;
