@@ -33,5 +33,3 @@ document.querySelector("#app").innerHTML = `
     </form>
   </div>
 `;
-
-setupCounter(document.querySelector("#counter"));
